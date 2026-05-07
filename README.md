@@ -2,11 +2,13 @@
 GC_IoT26_Homework#1
 
 ## IDE Screenshot
-![image.png](attachment:d6c214d8-4377-40a4-9466-b58209e43436:image.png)
-
+![image.png](assets/blinking_LED2.jpg)
 ## blinking_LED.py source code screenshot
-![image.png](attachment:b02838ff-e06b-4942-8785-51904541b102:image.png)
+![image.png](assets/blinking_LED2.jpg)
 
 ## result image
+![image.png](assets/blinking_LED.jpg)
+![image.png](assets/blinking_LED2.jpg)
 
 ## result gif
+![blinking_LED_result](assets/KakaoTalk_20260506_144903547.gif)
