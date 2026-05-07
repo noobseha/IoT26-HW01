@@ -1,10 +1,8 @@
 # IoT26-HW01
-GC_IoT26_Homework#1
-
 ## IDE Screenshot
-![image.png](assets/blinking_LED2.jpg)
+![image.png](assets/image(3).png)
 ## blinking_LED.py source code screenshot
-![image.png](assets/blinking_LED2.jpg)
+![image.png](assets/image(2).png)
 
 ## result image
 ![image.png](assets/blinking_LED.jpg)
